@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/30 14:44:08.157.cpp,C:\Users\sawyer\Documents\RAD Studio\Projects\Unit1.cpp=E:\Sample\SYZip\BCB\Main.cpp</Transaction>
+    <Transaction>2013/01/30 14:44:08.193.h,C:\Users\sawyer\Documents\RAD Studio\Projects\Unit1.h=E:\Sample\SYZip\BCB\Main.h</Transaction>
+    <Transaction>2013/01/30 14:44:08.193.dfm,C:\Users\sawyer\Documents\RAD Studio\Projects\Unit1.dfm=E:\Sample\SYZip\BCB\Main.dfm</Transaction>
+    <Transaction>2013/01/30 14:44:11.917.cbproj,C:\Users\sawyer\Documents\RAD Studio\Projects\Project1.cbproj=E:\Sample\SYZip\BCB\SYZip.cbproj</Transaction>
+    <Transaction>2013/01/30 14:47:52.407.lib,E:\Sample\SYZip\Lib\ZLibWrap.lib=</Transaction>
+    <Transaction>2013/01/30 15:24:00.950.h,E:\Sample\SYZip\Include\ZLibWrapLib.h=</Transaction>
+    <Transaction>2013/01/30 15:24:03.742.lib,E:\Sample\SYZip\Lib\ZLibWrapLib.lib=</Transaction>
+    <Transaction>2013/01/30 15:24:37.270.h,E:\Sample\SYZip\Include\ZLibWrapLib.h=</Transaction>
+  </Transactions>
+</BorlandProject>
